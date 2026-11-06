@@ -7,6 +7,23 @@
 
 An intelligent computer vision system that detects license plates in uploaded videos and extracts their text. Built with YOLO for plate detection and EasyOCR for text recognition, PlateScope provides a local web interface with confidence scores, video timestamps, and CSV export.
 
+## Demo
+
+https://github.com/user-attachments/assets/50784707-e6c8-47f7-ac0e-964201510ecf
+
+## Application Screenshots
+
+<details>
+  <summary>📸 Click to view PlateScope & MySQL Screenshots</summary>
+  
+  <br/>
+  <img width="900" alt="PlateScope — License plate analysis" src="https://github.com/user-attachments/assets/a622cedf-9eb7-43ff-a3f7-da49957d531b" />
+  
+  <br/><br/>
+  <img width="900" alt="MySQL Workbench" src="https://github.com/user-attachments/assets/2102c2ef-ee13-4aa1-876d-4f16be42945f" />
+</details>
+
+
 ## Features
 
 - **Video Analysis** - Upload common video formats and sample frames for plate detection
@@ -26,11 +43,6 @@ An intelligent computer vision system that detects license plates in uploaded vi
 - **MySQL** - Persistent video and plate-result storage
 - **NumPy** - Numerical operations
 - **Jupyter** - Model training and analysis
-
-## Demo
-
-![Car Plate Detection Demo](video/video.gif)
-
 
 ## Project Structure
 
@@ -84,4 +96,12 @@ dataset = version.download("yolov11")
 - [Roboflow Universe](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e) - Dataset
 - [Ultralytics](https://github.com/ultralytics/ultralytics) - YOLOv11
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR) - OCR
+
+## Author
+
+Syeda Rana Manal
+
+GitHub: https://github.com/syedamanals86-debug
+
+Linkdin: https://www.linkedin.com/in/syeda-rana-manal-2bb3a240b/
   
