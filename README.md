@@ -19,11 +19,10 @@ https://github.com/user-attachments/assets/50784707-e6c8-47f7-ac0e-964201510ecf
     <td><b>MySQL Database Schema</b></td>
   </tr>
   <tr>
-    <td><img width="500" alt="PlateScope — License plate analysis" src="https://github.com" /></td>
-    <td><img width="500" alt="MySQL Workbench" src="https://github.com" /></td>
+    <td><img src="https://github.com" width="500" alt="PlateScope — License plate analysis" /></td>
+    <td><img src="https://github.com" width="500" alt="MySQL Workbench" /></td>
   </tr>
 </table>
-
 
 ## Features
 
