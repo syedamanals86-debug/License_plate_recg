@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/50784707-e6c8-47f7-ac0e-964201510ecf
 
 | **PlateScope Analysis** | **MySQL Database Schema** |
 | :---: | :---: |
-| ![]([https://github.com](https://github.com)) | ![]([https://github.com](https://github.com)) |
+| ![PlateScope](https://github.com) | ![MySQL Workbench](https://github.com) |
 
 ## Features
 
