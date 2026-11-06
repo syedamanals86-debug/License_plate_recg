@@ -13,9 +13,7 @@ https://github.com/user-attachments/assets/50784707-e6c8-47f7-ac0e-964201510ecf
 
 ## Application Screenshots
 
-| **PlateScope Analysis** | **MySQL Database Schema** |
-| :---: | :---: |
-| <img src="https://github.com" width="450" alt="PlateScope Analysis" /> | <img src="https://github.com" width="450" alt="MySQL Workbench" /> |
+<img src="https://github.com" width="48%" alt="PlateScope" /><img src="https://github.com" width="48%" alt="MySQL Workbench" />
 
 ## Features
 
