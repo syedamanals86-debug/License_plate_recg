@@ -13,7 +13,11 @@ https://github.com/user-attachments/assets/50784707-e6c8-47f7-ac0e-964201510ecf
 
 ## Application Screenshots
 
-<img src="https://github.com" width="48%" alt="PlateScope" /><img src="https://github.com" width="48%" alt="MySQL Workbench" />
+<!-- PlateScope Screenshot -->
+<img width="800" alt="PlateScope — License plate analysis" src="https://github.com/user-attachments/assets/a622cedf-9eb7-43ff-a3f7-da49957d531b" />
+
+<!-- MySQL Workbench Screenshot -->
+<img width="800" alt="MySQL Workbench" src="https://github.com/user-attachments/assets/2102c2ef-ee13-4aa1-876d-4f16be42945f" />
 
 ## Features
 
